@@ -1,0 +1,13 @@
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.exe
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.deps.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.runtimeconfig.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.runtimeconfig.dev.json
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.dll
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\bin\Debug\netcoreapp3.1\Tydzien2_warunki.pdb
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.dll
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.pdb
+C:\Users\LEGION\Desktop\szkola_dotneta\Zadania\Tydzien2_warunki\Tydzien2_warunki\obj\Debug\netcoreapp3.1\Tydzien2_warunki.genruntimeconfig.cache
